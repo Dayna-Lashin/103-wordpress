@@ -570,6 +570,11 @@ body {
 #sidebar .widget_archive ul li a {
 	color: #3b3b3b;
 }
+
+#sidebar .widget_instagram-feed-widget h3 {
+	color: #45ac9d;
+}
+
 /* End SIDEBAR STYLES */
 
 /* NEXT / PREV STYLES */
